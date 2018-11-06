@@ -1,4 +1,4 @@
-# cmr-process-manager
+# process-manager
 
 [![Build Status][travis-badge]][travis]
 [![Security Scan][security-scan-badge]][travis]
@@ -12,7 +12,7 @@
 
 [![][logo]][logo]
 
-*Process management functionality for CMR services*
+*Process management functionality*
 
 
 ## About
