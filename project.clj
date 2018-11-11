@@ -88,7 +88,7 @@
         :themes [:clojang]
         :doc-paths ["resources/docs/markdown"]
         :output-path "docs/current"
-        :namespaces [#"^cmr\.process\.manager\.(?!test)"]
+        :namespaces [#"^clojusc\.process\.manager\.(?!test)"]
         :metadata {:doc/format :markdown}}}}
   :aliases {
     ;; Dev & Testing Aliases

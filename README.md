@@ -36,8 +36,8 @@ Apache License, Version 2.0.
 [tag-badge]: https://img.shields.io/github/tag/clojusc/process-manager.svg
 [tag]: https://github.com/clojusc/process-manager/tags
 [clojure-v]: https://img.shields.io/badge/clojure-1.9.0-blue.svg
-[clojars]: https://clojars.org/gov.nasa.earthdata/cmr-process-manager
-[clojars-badge]: https://img.shields.io/clojars/v/gov.nasa.earthdata/cmr-process-manager.svg
+[clojars]: https://clojars.org/clojusc/process-manager
+[clojars-badge]: https://img.shields.io/clojars/v/clojusc/process-manager.svg
 [security-scan-badge]: https://img.shields.io/badge/nvd%2Fsecurity%20scan-passing-brightgreen.svg
-[prs]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+org%3Acmr-exchange+archived%3Afalse+
+[prs]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+org%3Aclojusc+archived%3Afalse+
 [prs-badge]: https://img.shields.io/badge/Open%20PRs-org-yellow.svg
