@@ -17,7 +17,7 @@
 
 ## About
 
-This library provides a means of tracking starting and processes. Docker support
+This library provides a means of tracking and starting processes. Docker support
 is added as a special case. In addition, process and docker components are provided.
 
 
@@ -30,11 +30,11 @@ Apache License, Version 2.0.
 
 [logo]: https://raw.githubusercontent.com/clojusc/process-manager/master/resources/images/logo-sm.png
 [logo-large]: https://raw.githubusercontent.com/clojusc/process-manager/master/resources/images/logo.png
-[travis]: https://travis-ci.org/cmr-exchange/cmr-process-manager
-[travis-badge]: https://travis-ci.org/cmr-exchange/cmr-process-manager.png?branch=master
+[travis]: https://travis-ci.org/clojusc/process-manager
+[travis-badge]: https://travis-ci.org/clojusc/process-manager.png?branch=master
 [deps-badge]: https://img.shields.io/badge/deps%20check-passing-brightgreen.svg
-[tag-badge]: https://img.shields.io/github/tag/cmr-exchange/cmr-process-manager.svg
-[tag]: https://github.com/cmr-exchange/cmr-process-manager/tags
+[tag-badge]: https://img.shields.io/github/tag/clojusc/process-manager.svg
+[tag]: https://github.com/clojusc/process-manager/tags
 [clojure-v]: https://img.shields.io/badge/clojure-1.9.0-blue.svg
 [clojars]: https://clojars.org/gov.nasa.earthdata/cmr-process-manager
 [clojars-badge]: https://img.shields.io/clojars/v/gov.nasa.earthdata/cmr-process-manager.svg
