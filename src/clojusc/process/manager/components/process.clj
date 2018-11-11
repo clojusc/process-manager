@@ -1,8 +1,8 @@
-(ns cmr.process.manager.components.process
+(ns clojusc.process.manager.components.process
   (:require
     [clojure.core.async :as async]
-    [cmr.process.manager.core :as process]
-    [cmr.process.manager.util :as util]
+    [clojusc.process.manager.core :as process]
+    [clojusc.process.manager.util :as util]
     [com.stuartsierra.component :as component]
     [me.raynes.conch.low-level :as shell]
     [taoensso.timbre :as log]))

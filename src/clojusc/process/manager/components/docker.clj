@@ -1,6 +1,6 @@
-(ns cmr.process.manager.components.docker
+(ns clojusc.process.manager.components.docker
   (:require
-    [cmr.process.manager.docker :as docker]
+    [clojusc.process.manager.docker :as docker]
     [com.stuartsierra.component :as component]
     [taoensso.timbre :as log]))
 

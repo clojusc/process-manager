@@ -1,4 +1,4 @@
-(ns cmr.process.manager.components.core
+(ns clojusc.process.manager.components.core
   (:require
     [com.stuartsierra.component :as component]
     [taoensso.timbre :as log]))

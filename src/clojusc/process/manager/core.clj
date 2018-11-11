@@ -1,9 +1,9 @@
-(ns cmr.process.manager.core
+(ns clojusc.process.manager.core
   (:require
     [clojure.core.async :as async]
     [clojure.java.shell :as shell]
     [clojure.string :as string]
-    [cmr.process.manager.util :as util]
+    [clojusc.process.manager.util :as util]
     [taoensso.timbre :as log]
     [trifl.ps :as process]))
 

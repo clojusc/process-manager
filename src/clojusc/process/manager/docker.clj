@@ -1,9 +1,9 @@
-(ns cmr.process.manager.docker
+(ns clojusc.process.manager.docker
   (:require
     [cheshire.core :as json]
     [clojure.java.io :as io]
     [clojure.string :as string]
-    [cmr.process.manager.core :as process]
+    [clojusc.process.manager.core :as process]
     [taoensso.timbre :as log]
     [trifl.fs :as fs]
     [trifl.ps :as ps]))
